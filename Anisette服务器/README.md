@@ -1,2 +1,2 @@
-# Anisette服务器
+# Anisette
 
