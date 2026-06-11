@@ -1,9 +1,0 @@
-{
-  "servers": [
-    {
-      "name": "Anisette Server",
-      "description": "Anisette service server",
-      "status": "active"
-    }
-  ]
-}
